@@ -1,10 +1,9 @@
 ---
 layout: post
+tags: R proxy-Configuration
+date: 2018-12-07 18:06
 title:  "R Proxy Configutaion"
 ---
-
-R Configuration
-===
 
 ### Configuring R to Use an HTTP or HTTPS Proxy  
 

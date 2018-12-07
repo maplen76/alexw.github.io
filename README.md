@@ -1,16 +1,20 @@
-A [Jekyll](https://jekyllrb.com/) blog template made for simple, readable snippets of your brain drippings.
+# README #
 
-[DEMO](http://adueck.github.io/cayman-blog/)
+A simple blog template for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.
 
-To get this going follow these simple steps:
+Uses:
+* Twitter Bootstrap 3.2.0
+* Font Awesome 4.2.0
 
-1. Fork, clone, or download the repository
-2. Edit <code>_config.yml</code>
-3. If you want, swap `img/cover.jpg` for your own header image
-3. Fill up the `_posts` folder with whatever you want to say
-4. run <code>jekyll build</code> and then <code>jekyll serve</code>  
-note: This will require the `jekyll-paginate` gem `$ gem install jekyll-paginate`
 
-You can easily host your blog for free on [GitHub Pages](https://pages.github.com/)
+Here is a <a href="http://itsrifat.github.io/rifyll/" target="_blank">Demo</a>
 
-I made this Jekyll theme by adapting and modifying the [Cayman Theme](https://github.com/jasonlong/cayman-theme) by [Jason Lang](https://github.com/jasonlong), which is licensed under a [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/).
+To get started:
+* Fork this repo
+* Edit [_config.yml](_config.yml):
+  * Change logo_location
+* Edit [_data/menu.yml](_data/menu.yml) to edit menu
+* Edit [_data/personal.yml](_data/personal.yml) to edit persnoal info to show in about me page.
+
+To create a post:
+* Create a **.md** or **.markdown** file in the _post directory. Add a thumbnail image for the post in the yml front matter, its shown as the post thumbnail in the homepage

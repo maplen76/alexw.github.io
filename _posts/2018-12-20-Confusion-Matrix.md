@@ -1,11 +1,11 @@
 ---
 layout: post
-tags: R proxy-Configuration
-date: 2018-12-07 18:06
-title:  "R Proxy Configutaion"
+tags: ConfusionMatrix
+date: 2018-12-20 18:06
+title:  "Confusion Matrix"
 ---
 
-ConfusionMatrix
+Confusion Matrix
 ===
 
 |  | T | F |

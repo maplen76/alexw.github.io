@@ -5,9 +5,6 @@ date: 2018-12-20 18:06
 title:  "Confusion Matrix"
 ---
 
-Confusion Matrix
-===
-
 |  | T | F |
 |---|---|---|
 | Positive | TP | FP |

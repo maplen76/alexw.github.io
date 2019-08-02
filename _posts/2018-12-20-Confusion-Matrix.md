@@ -17,7 +17,7 @@ FN: 预测结果是Negative这个命题本身是FALSE
 Recall = TP/(TP+FN) ,所有原本是postive的样本中被正确预测到的占比  
 - 之所以叫Recal就是对原本情况的追溯
 
-Precision = TP/(TP+FP),  所有被预测为Positive的样本中**被正确预测**的占比
+Precision = TP/(TP+FP),  所有被预测为Positive的样本中**被正确预测**的占比  
 - 预测结果被分为两部分，正确预测和错误预测
 
 Accuracy = (TP+TN)/Total, 所有样本被正确预测的占比  
